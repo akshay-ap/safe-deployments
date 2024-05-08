@@ -4,6 +4,7 @@
   "contractName": "CompatibilityFallbackHandler",
   "version": "1.3.0",
   "networkAddresses": {
+    "41144114": "0xf2B23Ef9766653B76bfa9F3c5960C9bE25De648f",
     "1": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
     "3": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
     "4": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
